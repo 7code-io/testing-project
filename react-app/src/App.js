@@ -6,8 +6,8 @@ import SignUp from "./pages/SignUp"
 function App() {
   return (
     <div className="App">
-      <p>Hello for testing</p>
-      <SignUp></SignUp>
+      <p>Whatever, i want to add something here</p>
+      <Login></Login>
     </div>
   );
 }
